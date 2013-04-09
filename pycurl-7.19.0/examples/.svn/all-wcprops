@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/source/fortemp/!svn/ver/10/pycurl-7.19.0/examples
+END
+basicfirst.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/source/fortemp/!svn/ver/10/pycurl-7.19.0/examples/basicfirst.py
+END
+xmlrpc_curl.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/source/fortemp/!svn/ver/10/pycurl-7.19.0/examples/xmlrpc_curl.py
+END
+linksys.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/source/fortemp/!svn/ver/10/pycurl-7.19.0/examples/linksys.py
+END
+sfquery.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/source/fortemp/!svn/ver/10/pycurl-7.19.0/examples/sfquery.py
+END
+retriever-multi.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/source/fortemp/!svn/ver/10/pycurl-7.19.0/examples/retriever-multi.py
+END
+file_upload.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/source/fortemp/!svn/ver/10/pycurl-7.19.0/examples/file_upload.py
+END
+retriever.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/source/fortemp/!svn/ver/10/pycurl-7.19.0/examples/retriever.py
+END

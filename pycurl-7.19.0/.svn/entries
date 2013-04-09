@@ -1,0 +1,163 @@
+8
+
+dir
+15
+http://jgalaro.slsapp.com/source/fortemp/pycurl-7.19.0
+http://jgalaro.slsapp.com/source/fortemp
+
+
+
+2011-03-27T04:25:33.084115Z
+10
+amidamaren@gmail.com
+
+
+svn:special svn:externals svn:needs-lock
+
+python
+dir
+
+setup.py
+file
+
+
+
+
+2008-09-09T17:40:34.000000Z
+2dc3c7b4a0f2d56d3610ca5343a59a0d
+2011-03-27T04:25:33.084115Z
+10
+amidamaren@gmail.com
+
+ChangeLog
+file
+
+
+
+
+2008-09-09T17:37:56.000000Z
+b0e94350353c8fc9c0052e3f1c07f649
+2011-03-27T04:25:33.084115Z
+10
+amidamaren@gmail.com
+
+src
+dir
+
+COPYING2
+file
+
+
+
+
+2008-04-22T12:54:02.000000Z
+ffaa1e283b7f9bf5aafd8d45db6f7518
+2011-03-27T04:25:33.084115Z
+10
+amidamaren@gmail.com
+
+setup_win32_ssl.py
+file
+
+
+
+
+2008-09-09T17:40:34.000000Z
+8863ef28ddd941268ca5f5162ac24580
+2011-03-27T04:25:33.084115Z
+10
+amidamaren@gmail.com
+
+README
+file
+
+
+
+
+2008-04-22T12:54:37.000000Z
+fbfe545b1869617123a08c0983ef17b2
+2011-03-27T04:25:33.084115Z
+10
+amidamaren@gmail.com
+
+tests
+dir
+
+TODO
+file
+
+
+
+
+2008-09-09T17:40:45.000000Z
+2ddf3c2f5c2d1022642d6967bad6fd5d
+2011-03-27T04:25:33.084115Z
+10
+amidamaren@gmail.com
+
+doc
+dir
+
+INSTALL
+file
+
+
+
+
+2007-08-29T07:15:29.000000Z
+867d49c9e81eb4d54bdb0eef14ebd8c4
+2011-03-27T04:25:33.084115Z
+10
+amidamaren@gmail.com
+
+COPYING
+file
+
+
+
+
+2008-04-22T13:55:49.000000Z
+3579a9fd0221d49a237aaa33492f988c
+2011-03-27T04:25:33.084115Z
+10
+amidamaren@gmail.com
+
+PKG-INFO
+file
+
+
+
+
+2008-09-09T17:42:37.000000Z
+e53141df9b9d4e25b14d0b9ee8420e9a
+2011-03-27T04:25:33.084115Z
+10
+amidamaren@gmail.com
+
+MANIFEST.in
+file
+
+
+
+
+2008-04-22T14:00:00.000000Z
+59945e8c740ef6ccbbe3bb40b4897d46
+2011-03-27T04:25:33.084115Z
+10
+amidamaren@gmail.com
+
+Makefile
+file
+
+
+
+
+2004-12-24T01:28:52.000000Z
+a3e551f18e84c65522facdab5af6da35
+2011-03-27T04:25:33.084115Z
+10
+amidamaren@gmail.com
+
+examples
+dir
+

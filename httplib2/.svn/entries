@@ -1,0 +1,52 @@
+8
+
+dir
+15
+http://jgalaro.slsapp.com/source/fortemp/httplib2
+http://jgalaro.slsapp.com/source/fortemp
+
+
+
+2011-03-27T09:36:25.992340Z
+15
+jgalaro@gmail.com
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+9fc19af4-2e01-0010-8e4f-cbc8e9e91f86
+
+__init__.py
+file
+
+
+
+
+2011-03-27T09:44:14.000000Z
+14893040ae448c457a8ac35dfab847d0
+2011-03-27T09:36:25.992340Z
+15
+jgalaro@gmail.com
+
+iri2uri.py
+file
+
+
+
+
+2011-03-27T00:24:13.000000Z
+c0f9c5cb229a22e21575322b4ba77741
+2011-03-27T00:11:56.668418Z
+1
+jgalaro@gmail.com
+

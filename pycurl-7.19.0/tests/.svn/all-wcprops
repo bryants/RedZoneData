@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/source/fortemp/!svn/ver/10/pycurl-7.19.0/tests
+END
+test_ftp.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/source/fortemp/!svn/ver/10/pycurl-7.19.0/tests/test_ftp.py
+END
+test_multi_vs_thread.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/source/fortemp/!svn/ver/10/pycurl-7.19.0/tests/test_multi_vs_thread.py
+END
+test_multi.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/source/fortemp/!svn/ver/10/pycurl-7.19.0/tests/test_multi.py
+END
+test_multi_timer.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/source/fortemp/!svn/ver/10/pycurl-7.19.0/tests/test_multi_timer.py
+END
+test_getinfo.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/source/fortemp/!svn/ver/10/pycurl-7.19.0/tests/test_getinfo.py
+END
+test_stringio.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/source/fortemp/!svn/ver/10/pycurl-7.19.0/tests/test_stringio.py
+END
+test_internals.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/source/fortemp/!svn/ver/10/pycurl-7.19.0/tests/test_internals.py
+END
+test_multi_socket_select.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/source/fortemp/!svn/ver/10/pycurl-7.19.0/tests/test_multi_socket_select.py
+END
+test_multi_socket.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/source/fortemp/!svn/ver/10/pycurl-7.19.0/tests/test_multi_socket.py
+END
+test_share.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/source/fortemp/!svn/ver/10/pycurl-7.19.0/tests/test_share.py
+END
+test_xmlrpc.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/source/fortemp/!svn/ver/10/pycurl-7.19.0/tests/test_xmlrpc.py
+END
+test_post2.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/source/fortemp/!svn/ver/10/pycurl-7.19.0/tests/test_post2.py
+END
+test_post3.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/source/fortemp/!svn/ver/10/pycurl-7.19.0/tests/test_post3.py
+END
+test_socketopen.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/source/fortemp/!svn/ver/10/pycurl-7.19.0/tests/test_socketopen.py
+END
+test_memleak.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/source/fortemp/!svn/ver/10/pycurl-7.19.0/tests/test_memleak.py
+END
+test_multi2.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/source/fortemp/!svn/ver/10/pycurl-7.19.0/tests/test_multi2.py
+END
+test_multi3.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/source/fortemp/!svn/ver/10/pycurl-7.19.0/tests/test_multi3.py
+END
+test_multi4.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/source/fortemp/!svn/ver/10/pycurl-7.19.0/tests/test_multi4.py
+END
+util.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/source/fortemp/!svn/ver/10/pycurl-7.19.0/tests/util.py
+END
+test_multi5.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/source/fortemp/!svn/ver/10/pycurl-7.19.0/tests/test_multi5.py
+END
+test_multi6.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/source/fortemp/!svn/ver/10/pycurl-7.19.0/tests/test_multi6.py
+END
+test.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/source/fortemp/!svn/ver/10/pycurl-7.19.0/tests/test.py
+END
+test_cb.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/source/fortemp/!svn/ver/10/pycurl-7.19.0/tests/test_cb.py
+END
+test_gtk.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/source/fortemp/!svn/ver/10/pycurl-7.19.0/tests/test_gtk.py
+END
+test_post.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/source/fortemp/!svn/ver/10/pycurl-7.19.0/tests/test_post.py
+END
+test_debug.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/source/fortemp/!svn/ver/10/pycurl-7.19.0/tests/test_debug.py
+END
